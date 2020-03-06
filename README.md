@@ -5,6 +5,4 @@
 
 使用mysql数据库存储数据信息，reids数据库缓存页面数据，使用德鲁伊连接池、tomcat7以及javaMail的类来发邮件激活账号
 
-因为静态资源太多就不放在github上了，webapp下的静态资源都打包放在百度网盘里
-
-https://pan.baidu.com/s/1LF8N6xKijnt3ba5e1HXNDA
+基本功能已经实现，可以使用框架来优化工程
