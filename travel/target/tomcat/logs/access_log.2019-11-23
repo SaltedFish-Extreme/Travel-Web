@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:15:09:39 +0800] "GET /travel/activeUserServlet?code= HTTP/1.1" 200 34 http-bio-80-exec-1 1661
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:15:09:40 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-3 0
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:52:02 +0800] "GET /travel HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:52:03 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-3 0
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:52:05 +0800] "GET /travel/css/bootstrap.min.css.map HTTP/1.1" 404 1015 http-bio-80-exec-4 30
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:52:09 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-5 0
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:55:29 +0800] "GET /travel/js/angular.min.js HTTP/1.1" 404 999 http-bio-80-exec-9 2
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:55:29 +0800] "GET /travel/checkCode HTTP/1.1" 200 385 http-bio-80-exec-8 581
+0:0:0:0:0:0:0:1 - - [23/Nov/2019:17:56:44 +0800] "GET /travel/js/angular.min.js HTTP/1.1" 404 999 http-bio-80-exec-3 3
